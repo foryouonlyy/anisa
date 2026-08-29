@@ -17,7 +17,7 @@ window.onload = function () {
   });
 
   function startCountdown() {
-    let birthday = new Date("June 27, 2026 00:00:00").getTime();
+    let birthday = new Date("September 12, 2026 00:00:00").getTime();
 
     setInterval(function () {
       let now = new Date().getTime();
